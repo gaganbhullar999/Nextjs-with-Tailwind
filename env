@@ -1,0 +1,7 @@
+AUTH0_SECRET='5783c9d89f8ec7ccb72a60d59bee820d85851b514b24939a7f3312e18167c678'
+AUTH0_BASE_URL='http://localhost:3000'
+AUTH0_ISSUER_BASE_URL='https://dev-8mhhggwsnlsmh8or.us.auth0.com'
+AUTH0_CLIENT_ID='i5kK6j2r9fLX1axfF3CZUBR4Dzd5kNbq'
+AUTH0_CLIENT_SECRET='avh3B9IbHqwX-fdjVoLhHSAbnqPPwaxa6sF7ewfnchtLspRhOC1kBmFj1uU33JBb'
+JWT_SECRET='ZyaSAPrijhLvNvDlCJZZa/I4cXNbMUo/8wvYpsxnidE='
+MONGO_DB_URL='mongodb+srv://pawn:cEkskdUgC1wI14Fz@cluster0.fomr4q9.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0'
